@@ -1,4 +1,4 @@
-# React Project for the React Course
+# React Project for test async await for useEffect 
 
 ## Available Scripts
 
